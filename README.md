@@ -1,6 +1,6 @@
-# EarthquakeEducation
+# EarthquakeAnalysis
 
-EarthquakeEducation is a Python application that provides information on earthquakes by generating random Richter Scale values
+EarthquakeAnalysis is a Python application that provides information on earthquakes by generating random Richter Scale values
 and using these values to determine the amount of energy produced, their shaking levels, and their impacts on the environment.
 
 

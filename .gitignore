@@ -2,6 +2,6 @@
 *
 
 #unignore what we want to track
-!*.cpp
-!*.h
+!*.py
+!*.txt
 !.gitignore

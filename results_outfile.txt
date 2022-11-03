@@ -1,0 +1,142 @@
+List of Earthquake Analyzes:
+
+Richter Value: 2.9454216271378875
+Joules: 1652465650.709136
+TNT: 0.3949487692900005
+MMI: II
+Shaking Value: Weak
+Impact: Felt only by a few people at rest, especially on upper floors
+
+Richter Value: 5.655401570902756
+Joules: 19191209938990.52
+TNT: 4586.809258841573
+MMI: VI
+Shaking Value: Strong
+Impact: Felt by all, many frightened. Some heavy furniture moved; a few insteances of fallen plaster. Damage slight.
+
+Richter Value: 8.477352745642804
+Joules: 3.281172918990326e+17
+TNT: 78421914.88983686
+MMI: XII
+Shaking Value: Shaking value: Extreme
+Impact: Damage total. Waves seen on ground surfaces. Lines of sight and level distorted. Objects thrown upward into the air.
+
+Richter Value: 1.8993740231396412
+Joules: 44571888.42637424
+TNT: 0.010652937004393006
+MMI: I
+Shaking Value: Not felt
+Impact: Not felt except by very few under especially favorable conditions
+
+Richter Value: 4.677138450715027
+Joules: 654195686251.647
+TNT: 156.3565215706827
+MMI: V
+Shaking Value: Moderate
+Impact: Felt by nearly everyone; many awakened. Some dishes, wondows broken. Unstable objects overturned. Pendulum clocks may stop.
+
+Richter Value: 4.1598271915445615
+Joules: 109582394824.4638
+TNT: 26.190820942753056
+MMI: V
+Shaking Value: Moderate
+Impact: Felt by nearly everyone; many awakened. Some dishes, wondows broken. Unstable objects overturned. Pendulum clocks may stop.
+
+Richter Value: 3.1637831693806824
+Joules: 3512972532.1832438
+TNT: 0.8396205860859761
+MMI: III
+Shaking Value: Weak
+Impact: Felt quite noticeably by people indoors, especially on upper floors of buildings. Many people do not recognize it as an earthquake. Standing motorcars may rock slightly. Vibrations similar to the passing of a truck. Duration estimated.
+
+Richter Value: 8.749043692099505
+Joules: 8.386206229344864e+17
+TNT: 200435139.32471344
+MMI: XII
+Shaking Value: Shaking value: Extreme
+Impact: Damage total. Waves seen on ground surfaces. Lines of sight and level distorted. Objects thrown upward into the air.
+
+Richter Value: 6.561521900021989
+Joules: 438816399824013.75
+TNT: 104879.63666923369
+MMI: VIII
+Shaking Value: Severe
+Impact: Damage slight in specially designed structures; considerable damage in ordinary substantial buildings with parital collapse. Damage great in poorly built structures. Fall of chimneys, factory stacks, columns, monuments, walls. Heavy furniture overturned.
+
+Richter Value: 7.686728471033202
+Joules: 2.1384185176941028e+16
+TNT: 5110942.919919683
+MMI: X
+Shaking Value: Extreme
+Impact: Some well-built wooden structures destroyed; most masonry and frame structures destroyed with foundations. Rails bent.
+
+Richter Value: 4.35306653146678
+Joules: 213599286275.80823
+TNT: 51.05145465483686
+MMI: V
+Shaking Value: Moderate
+Impact: Felt by nearly everyone; many awakened. Some dishes, wondows broken. Unstable objects overturned. Pendulum clocks may stop.
+
+Richter Value: 9.19301887318627
+Joules: 3.8862282977063526e+18
+TNT: 928830855.0924675
+MMI: XII
+Shaking Value: Shaking value: Extreme
+Impact: Damage total. Waves seen on ground surfaces. Lines of sight and level distorted. Objects thrown upward into the air.
+
+Richter Value: 7.82186732892831
+Joules: 3.410366027295822e+16
+TNT: 8150970.428528414
+MMI: X
+Shaking Value: Extreme
+Impact: Some well-built wooden structures destroyed; most masonry and frame structures destroyed with foundations. Rails bent.
+
+Richter Value: 6.172268175015998
+Joules: 114393740904191.72
+TNT: 27340.760254351666
+MMI: VIII
+Shaking Value: Severe
+Impact: Damage slight in specially designed structures; considerable damage in ordinary substantial buildings with parital collapse. Damage great in poorly built structures. Fall of chimneys, factory stacks, columns, monuments, walls. Heavy furniture overturned.
+
+Richter Value: 7.793445397516856
+Joules: 3.091491781345514e+16
+TNT: 7388842.689641341
+MMI: X
+Shaking Value: Extreme
+Impact: Some well-built wooden structures destroyed; most masonry and frame structures destroyed with foundations. Rails bent.
+
+Richter Value: 1.5169686129078572
+Joules: 11897423.45561274
+TNT: 0.002843552451150661
+MMI: I
+Shaking Value: Not felt
+Impact: Not felt except by very few under especially favorable conditions
+
+Richter Value: 7.003680159999783
+Joules: 2020785607139949.8
+TNT: 482979.3516109527
+MMI: X
+Shaking Value: Extreme
+Impact: Some well-built wooden structures destroyed; most masonry and frame structures destroyed with foundations. Rails bent.
+
+Richter Value: 5.1054915088186394
+Joules: 2872349371837.0527
+TNT: 686.5079760605748
+MMI: VI
+Shaking Value: Strong
+Impact: Felt by all, many frightened. Some heavy furniture moved; a few insteances of fallen plaster. Damage slight.
+
+Richter Value: 4.578313530771048
+Joules: 465018569842.22375
+TNT: 111.14210560284114
+MMI: V
+Shaking Value: Moderate
+Impact: Felt by nearly everyone; many awakened. Some dishes, wondows broken. Unstable objects overturned. Pendulum clocks may stop.
+
+Richter Value: 8.141625585160583
+Joules: 1.029054503781816e+17
+TNT: 24594992.920218848
+MMI: XII
+Shaking Value: Shaking value: Extreme
+Impact: Damage total. Waves seen on ground surfaces. Lines of sight and level distorted. Objects thrown upward into the air.
+
